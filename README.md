@@ -12,6 +12,7 @@ npm install
 # Run it in local
 npm start
 
+# App details
 You will be directed to Home page.
 You have an option to choose the product size with the help of dropdown.
 You will be able to see the filtered results.
