@@ -1,0 +1,23 @@
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
+    grid-gap: 1em;
+}
+
+.navbar {
+    background-color: #DEF1F4;
+    padding: 10px;  
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar__header {
+    font-weight: bold;
+}
+
+@media (min-width: 2560px) {
+    .cards {
+        grid-template-columns: repeat(auto-fit, minmax(15em, 1fr));
+    }
+}

@@ -1,0 +1,35 @@
+.card {
+    margin: 30px 0px;
+}
+
+.card__image{
+    height: 250px;
+    width: 250px;
+}
+
+.card__subText{
+    color: #ffffff;
+    height: 70px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.card__subText__line1{
+    background-color: #CC3333;
+    padding:10px;
+}
+
+.card__subText__line2{
+    background-color: #009900;
+    padding:10px;
+}
+
+.card__description{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card__description__subHeader{
+    font-weight: bold;
+}
+
