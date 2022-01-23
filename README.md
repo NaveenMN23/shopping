@@ -20,7 +20,7 @@ Create a shopping dashboard responsive web page using React framework that takes
 
 ### Installation
 1. Clone the repo using SSH or HTTPS <br/>
-    HTTPS: ``` git clone https://github.com/NaveenMN23/shopping.git ```
+    HTTPS: ``` git clone https://github.com/NaveenMN23/shopping.git ``` <br/>
     SSH: ``` git clone git@github.com:NaveenMN23/shopping.git ```
 2. Install NPM packages to install the NPM dependencies <br/>
     ``` npm install ```
