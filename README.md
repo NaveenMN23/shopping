@@ -29,6 +29,6 @@ Create a shopping dashboard responsive web page using React framework that takes
 
 ## Screenshots
 
-<img src="public/images/dashboard-screenshot.png" alt="Dashboard Screenshot" width="645" height="174">
+<img src="public/images/dashboard-screenshot.png" alt="Dashboard Screenshot" width="645" height="436">
 
 
