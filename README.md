@@ -3,7 +3,7 @@
 ## About The Project
 Create a shopping dashboard responsive web page using React framework that takes JSON API as input and display the products. Also, provide an dropdown option to filter the records based on Product Size.
 
-### Requirements:
+### Requirements
 1. Build with React framework <br/>
 2. Read data from JSON using https://rainy-star.surge.sh/products.json API <br/>
 3. Responsive Layout <br/>
