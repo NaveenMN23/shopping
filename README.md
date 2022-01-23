@@ -1,14 +1,14 @@
 # Shopping Dashboard App
 
 ## About The Project
-Create a shopping dashboard responsive web page using React framework that takes JSON API as input and display the products.
+Create a shopping dashboard responsive web page using React framework that takes JSON API as input and display the products. Also, provide an dropdown option to filter the records based on Product Size.
 
 ### Requirements:
-• Build with React framework 
-• Read data from JSON using https://rainy-star.surge.sh/products.json
-• Responsive Layout
-• Build dropdown filters from data
-• Hide and show data depending on the dropdown filters
+1. Build with React framework <br/>
+2. Read data from JSON using https://rainy-star.surge.sh/products.json API <br/>
+3. Responsive Layout <br/>
+4. Build dropdown filters from data <br/>
+5. Hide and show data depending on the dropdown filters <br/>
 
 ### Build With
 • ReactJS
@@ -19,13 +19,19 @@ Create a shopping dashboard responsive web page using React framework that takes
 • Install npm in local
 
 ### Installation
-1. Clone the repo using SSH or HTTPS
-    HTTPS: ```sh git clone https://github.com/NaveenMN23/shopping.git ```
-    SSH: ```sh git clone git@github.com:NaveenMN23/shopping.git ```
-2. Install NPM packages to install the NPM dependencies
-    ```sh npm install ```
-3. Start the react app in development mode
-    ```sh npm start ```
+1. Clone the repo using SSH or HTTPS <br/>
+    HTTPS: ``` git clone https://github.com/NaveenMN23/shopping.git ```
+    SSH: ``` git clone git@github.com:NaveenMN23/shopping.git ```
+2. Install NPM packages to install the NPM dependencies <br/>
+    ``` npm install ```
+3. Start the react app in development mode <br/>
+    ``` npm start ```
 
+## Usage
 
+### Screenshots
+
+<img src="images/dashboard-screenshot.png" alt="Dashboard Screenshot" width="645" height="174">
+
+### Code examples
 
